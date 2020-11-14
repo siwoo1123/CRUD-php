@@ -1,1 +1,1 @@
-<img src="http://siuber.com/fa.ico">iUber
+<img src="http://siuber.com/fa.ico">
